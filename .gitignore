@@ -6,3 +6,5 @@
 !app.py
 !Scripts/
 !Scripts/**
+!demo/
+!demo/**

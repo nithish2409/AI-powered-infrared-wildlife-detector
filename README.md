@@ -68,7 +68,7 @@ A new tab will open in your browser at `http://localhost:8501`.
 ## 📸 Demo
 
 #### Image Prediction
-![Image Prediction Demo](path/to/your/image_demo_screenshot.jpg)
+![Image Prediction Demo](demo/image_demo.png)
 
 #### Video Prediction
-![Video Prediction Demo](path/to/your/video_demo_screenshot.jpg)
+![Video Prediction Demo](demo/video_demo.png)
